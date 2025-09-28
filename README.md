@@ -1,6 +1,6 @@
 # google-maps-a-link
 
-Add `a` links to Google Maps so that we can handle clicks better.
+Add extra `a` links in additional to `button` on Google Maps, so that we can handle clicks better.
 
 ## License
 
